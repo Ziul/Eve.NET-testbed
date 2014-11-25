@@ -33,7 +33,9 @@ class Auth(TokenAuth):
 # if we're running locally or not.
 port = os.environ.get('PORT')
 if port:
-    app = Eve(auth=Auth)
+    # app = Eve(auth=Auth)
+    # let's run it as an open service for the time being
+    app = Eve()
     host = '0.0.0.0'
     port = int(port)
 else:
