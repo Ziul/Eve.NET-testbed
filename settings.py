@@ -33,5 +33,8 @@ HATEOAS = False
 # We want the whole document back with POST/PATCH/PUT responses.
 BANDWIDTH_SAVER = False
 
+# Turn soft deletes on
+SOFT_DELETE = True
+
 # Set the API domain
 DOMAIN = domain.DOMAIN
