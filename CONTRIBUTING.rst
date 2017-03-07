@@ -50,10 +50,10 @@ also a special ``contributor friendly`` label flagging some interesting feature
 requests). In any case, other than GitHub help_ pages, you might want to check
 this excellent `Effective Guide to Pull Requests`_
 
-.. _`the repository`: http://github.com/nicolaiarocci/Eve.NET-testbed
-.. _AUTHORS: https://github.com/nicolaiarocci/Eve.NET-testbed/blob/master/AUTHORS
-.. _`open issues`: https://github.com/nicolaiarocci/Eve.NET-testbed/issues
-.. _`new issue`: https://github.com/nicolaiarocci/Eve.NET-testbed/issues/new
+.. _`the repository`: http://github.com/pyeve/Eve.NET-testbed
+.. _AUTHORS: https://github.com/pyeve/Eve.NET-testbed/blob/master/AUTHORS
+.. _`open issues`: https://github.com/pyeve/Eve.NET-testbed/issues
+.. _`new issue`: https://github.com/pyeve/Eve.NET-testbed/issues/new
 .. _GitHub: https://github.com/
 .. _Fork: https://help.github.com/articles/fork-a-repo
 .. _`proper format`: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html

@@ -1,2 +1,2 @@
 eve==0.6
-#-e git+git://github.com/nicolaiarocci/eve.git@develop#egg=eve-dev
+#-e git+git://github.com/pyeve/eve.git@develop#egg=eve-dev
