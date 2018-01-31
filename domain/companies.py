@@ -9,8 +9,9 @@ from common import required_string
 
 _schema = {
     # company id ('id')
-    'n': required_string,                       # name
-    'p': {'type': 'string', 'nullable': True},  # password
+    'name': required_string,
+    'password': {'type': 'string', 'nullable': True},
+    'state_or_province': {'type': 'string', 'nullable': True},
 }
 
 definition = {
