@@ -5,7 +5,7 @@
     :copyright: (c) 2014 by Nicola Iarocci and CIR2000.
     :license: BSD, see LICENSE for more details.
 """
-from common import base_schema, required_string
+from domain.common import base_schema, required_string
 
 _schema = {
     'u': required_string,   # username
