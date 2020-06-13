@@ -1,2 +1,2 @@
-eve==0.6
+eve==1.1.1
 #-e git+git://github.com/pyeve/eve.git@develop#egg=eve-dev
