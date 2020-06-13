@@ -36,5 +36,8 @@ BANDWIDTH_SAVER = False
 # Turn soft deletes on
 SOFT_DELETE = True
 
+# Enable schema route
+SCHEMA_ENDPOINT = 'schema'
+
 # Set the API domain
 DOMAIN = domain.DOMAIN
